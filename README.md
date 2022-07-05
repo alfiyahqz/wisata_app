@@ -3,9 +3,6 @@
 A new Flutter project.
 Wisata Bandung App is project from one of Dicoding Course " Belajar Membuat Aplikasi Flutter untuk Pemula".
 
-![screenshot](wisata_home.jpg)
-![screenshot](wisata_detail.jpg)
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
