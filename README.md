@@ -1,7 +1,9 @@
 # wisata_app
 
-A new Flutter project.
-Wisata Bandung App is project from one of Dicoding Course " Belajar Membuat Aplikasi Flutter untuk Pemula".
+A new Flutter project. <br>
+Wisata Bandung App is project from one of Dicoding Course " Belajar Membuat Aplikasi Flutter untuk Pemula". <br>
+<img src="https://github.com/alfiyahqz/wisata_app/blob/master/wisata_home.jpg" width = "200">
+<img src="https://github.com/alfiyahqz/wisata_app/blob/master/wisata_detail.jpg" width = "200">
 
 ## Getting Started
 
